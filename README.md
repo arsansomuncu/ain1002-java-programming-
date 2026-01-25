@@ -1,1 +1,1 @@
-# ain1002-java-programming
+AIN1002 - Java Programming
